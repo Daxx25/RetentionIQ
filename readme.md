@@ -8,7 +8,7 @@ It predicts customer churn for subscription-based businesses and provides an **i
 ## 🔗 Live Demo
 
 Check out the live interactive app here:  
-[**RetentionIQ on Streamlit**](https://subscription-churn-system.streamlit.app)
+[**RetentionIQ on Streamlit**](https://retentioniq.streamlit.app/)
 
 ---
 
@@ -59,3 +59,4 @@ Check out the live interactive app here:
 ```bash
 git clone https://github.com/Daxx25/subscription-churn-system.git
 cd subscription-churn-system
+
